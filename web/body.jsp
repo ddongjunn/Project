@@ -67,33 +67,33 @@
    <!-- 서울 지도 & 버튼 -->
    <div style="text-align: center; background-color: #A1C5D3; ">      
       <div style="position: relative; transform:translate(-50%, 0%); left:50%; width:1300px">
-      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=강남구'" style="position: absolute; top: 650px; left: 800px;" >강남구</button>
-      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=강동구'" style="position: absolute; top: 500px; left: 1000px;" >강동구</button>
-      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=강북구'" style="position: absolute; top: 210px; left: 670px;" >강북구</button>
-      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=강서구'" style="position: absolute; top: 440px; left: 240px;" >강서구</button>
-      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=관악구'" style="position: absolute; top: 720px; left: 540px;" >관악구</button>
-      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=광진구'" style="position: absolute; top: 500px; left: 870px;" >광진구</button>
-      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=구로구'" style="position: absolute; top: 630px; left: 310px;" >구로구</button>
-      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=금천구'" style="position: absolute; top: 760px; left: 430px;" >금천구</button>
-      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=노원구'" style="position: absolute; top: 160px; left: 830px;" >노원구</button>
-      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=도봉구'" style="position: absolute; top: 120px; left: 720px;" >도봉구</button>
+      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=강남구'" style="position: absolute; top: 680px; left: 810px;" >강남구</button>
+      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=강동구'" style="position: absolute; top: 520px; left: 1000px;" >강동구</button>
+      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=강북구'" style="position: absolute; top: 210px; left: 640px;" >강북구</button>
+      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=강서구'" style="position: absolute; top: 450px; left: 200px;" >강서구</button>
+      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=관악구'" style="position: absolute; top: 750px; left: 490px;" >관악구</button>
+      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=광진구'" style="position: absolute; top: 520px; left: 840px;" >광진구</button>
+      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=구로구'" style="position: absolute; top: 650px; left: 280px;" >구로구</button>
+      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=금천구'" style="position: absolute; top: 780px; left: 380px;" >금천구</button>
+      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=노원구'" style="position: absolute; top: 140px; left: 830px;" >노원구</button>
+      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=도봉구'" style="position: absolute; top: 140px; left: 720px;" >도봉구</button>
       <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=동대문구'" style="position: absolute; top: 400px; left: 780px;" >동대문구</button>
-      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=동작구'" style="position: absolute; top: 640px; left: 550px;" >동작구</button>
-      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=마포구'" style="position: absolute; top: 460px; left: 440px;" >마포구</button>
-      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=서대문구'" style="position: absolute; top: 400px; left: 500px;" >서대문구</button>
-      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=서초구'" style="position: absolute; top: 700px; left: 690px;" >서초구</button>
-      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=성동구'" style="position: absolute; top: 490px; left: 760px;" >성동구</button>
-      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=성북구'" style="position: absolute; top: 330px; left: 710px;" >성북구</button>
-      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=송파구'" style="position: absolute; top: 640px; left: 970px;" >송파구</button>
-      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=양천구'" style="position: absolute; top: 550px; left: 290px;" >양천구</button>
-      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=영등포구'" style="position: absolute; top: 560px; left: 460px;" >영등포구</button>
-      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=용산구'" style="position: absolute; top: 550px; left: 620px;" >용산구</button>
-      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=은평구'" style="position: absolute; top: 280px; left: 470px;" >은평구</button>
-      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=종로구'" style="position: absolute; top: 350px; left: 580px;" >종로구</button>
+      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=동작구'" style="position: absolute; top: 640px; left: 520px;" >동작구</button>
+      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=마포구'" style="position: absolute; top: 470px; left: 440px;" >마포구</button>
+      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=서대문구'" style="position: absolute; top: 420px; left: 490px;" >서대문구</button>
+      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=서초구'" style="position: absolute; top: 740px; left: 670px;" >서초구</button>
+      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=성동구'" style="position: absolute; top: 500px; left: 750px;" >성동구</button>
+      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=성북구'" style="position: absolute; top: 340px; left: 690px;" >성북구</button>
+      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=송파구'" style="position: absolute; top: 660px; left: 960px;" >송파구</button>
+      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=양천구'" style="position: absolute; top: 570px; left: 270px;" >양천구</button>
+      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=영등포구'" style="position: absolute; top: 560px; left: 400px;" >영등포구</button>
+      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=용산구'" style="position: absolute; top: 520px; left: 600px;" >용산구</button>
+      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=은평구'" style="position: absolute; top: 310px; left: 440px;" >은평구</button>
+      <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=종로구'" style="position: absolute; top: 370px; left: 570px;" >종로구</button>
       <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=중구'" style="position: absolute; top: 460px; left: 630px;" >중구</button>
       <button type="button" class="locationbtn" onclick="location.href='main.jsp?content=restaurant/restaurantList&location=중랑구'" style="position: absolute; top: 350px; left: 880px;" >중랑구</button>
 
-      <%--<img src="./image/seoulmap.jpg" width=100%> 1300 * 920 이미지 업로드 예정 --%>
+      <img src="./image/seoulmap.jpg" width=100%>
       
       </div>
       

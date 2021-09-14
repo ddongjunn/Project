@@ -11,7 +11,7 @@
 </head>
 <body bgcolor="#F1E9D8">
 
-<form action="findidAf.jsp" method="post">
+<form action="findpwAf.jsp" method="post">
 <div class="wrapper fadeInDown">
 <div id="formContent">
     <div class="fadeIn first">
