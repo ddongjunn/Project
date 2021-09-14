@@ -18,4 +18,4 @@
   - 서정아 : 메인게시판 댓글, 테이블 설계
   - 엄영신 : 고객센터, 메인페이지
 
-#### Portfolio (https://url.kr/ec4isb)
+#### Portfolio ( https://url.kr/ec4isb )
